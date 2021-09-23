@@ -1,0 +1,16 @@
+CODE TEMPLATES:
+
+module.exports = {
+  name: '',
+  description: "",
+  execute(client, message, args, Discord){
+  
+  
+  }
+}
+
+OPTIONAL: dotenv file
+npm i dotenv
+(top of file) require('dotenv').config();
+(token) process.env.DISCORD_TOKEN
+(.env file you have to make) DISCORD_TOKEN = [token]
