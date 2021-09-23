@@ -20,5 +20,5 @@ Run the command: 'npm i discord.js@12.5.3' (NOTE: THE '@12.5.3' IS CRUCIAL IF YO
 Once it has installed, you can now go to 'https://github.com/GlockCat/Template/' (NOT INSIDE ANY FILE OR FOLDER) and make sure you have the link copied.
 In the script editor run the command 'git clone https://github.com/GlockCat/Template/'.
 This will clone my template into your folder.
-FRom there, just quickly skim through the files and check for EDIT variables. These are the ones you should edit (prefix of choice for prefix, token from bot, etc.)
+From there, just quickly skim through the files and check for EDIT variables. These are the ones you should edit (prefix of choice for prefix, token from bot, etc.)
 Delete the 'placeholder.txt's and you're ready to code! Check 'Template2.txt' for code templates and other optional things.
