@@ -1,0 +1,6 @@
+DEPENDENCIES:
+
+discord.js@12.5.3
+discord-buttons
+discord.js-avatar
+dotenv
